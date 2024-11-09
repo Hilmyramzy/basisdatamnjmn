@@ -22,6 +22,7 @@ Data ini hanyalah sekumpulan angka dan kode mahasiswa yang belum memiliki makna.
 2.  Sebuah universitas ingin menyimpan informasi tentang mahasiswa dan mata kuliah yang mereka ambil. Identifikasi entitas dan atribut yang relevan dalam sistem ini. Buat tabel sederhana yang mencakup entitas dan atribut yang diperlukan.
    Entitas dan Atribut:
 Entitas: Mahasiswa
+![d1c3c856-0a6c-4fc3-8fe5-e3463a23da29](https://github.com/user-attachments/assets/6fc457ce-8e77-40fc-9355-b4f9761fbda9)
 
 Atribut:
 NIM (Nomor Induk Mahasiswa)
@@ -65,7 +66,8 @@ menyimpan data mata kuliah apa saja yang diambil setiap mahasiswa dan berisi nil
 3.  Pada sistem perpustakaan, terdapat entitas Buku dan entitas Anggota. Jelaskan bagaimana relasi antar entitas ini bisa dibangun dalam basis data. Gambarkan relasi antar entitas tersebut dalam bentuk diagram ER (Entity-Relationship).
 
    Pembentukan Relasi
-   
+   ![d1c3c856-0a6c-4fc3-8fe5-e3463a23da29](https://github.com/user-attachments/assets/b337a99e-d763-4342-9565-a6b6e0594f4d)
+
 Entitas Buku:
 
 Menyimpan informasi tentang buku yang ada di perpustakaan.
@@ -95,7 +97,8 @@ Sebuah buku bisa dipinjam oleh beberapa anggota pada waktu yang berbeda.
 4.  Dalam suatu sistem penjualan online, terdapat entitas Pelanggan dan entitas Pesanan. Diskusikan kemungkinan kardinalitas dan participation constraint yang dapat berlaku antara entitas Pelanggan dan Pesanan. Berikan contoh yang sesuai dalam diagram ER.
 
    Dalam sistem penjualan online, relasi antara Pelanggan dan Pesanan memiliki karakteristik sebagai berikut:
-   
+   ![d1c3c856-0a6c-4fc3-8fe5-e3463a23da29](https://github.com/user-attachments/assets/26fbeba1-6d80-470d-93ee-5c69076eb5f7)
+
 
 Kardinalitas
 
